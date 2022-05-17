@@ -11,9 +11,9 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan bir link gelecek)
 
-....
+```
 git clone https://github.com/GokBar/kodluyoruzilkrepo.git
-....
+```
 
 ## Usage
 
